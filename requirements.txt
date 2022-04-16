@@ -1,0 +1,4 @@
+django-extensions==3.1.5
+django==3.2.12
+launchdarkly-server-sdk==7.4.0
+ipdb==0.13.9
